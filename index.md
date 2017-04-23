@@ -1,5 +1,5 @@
 # Welcome to My Blog in GITHUB     
-# DEDE KALIMATA
+DEDE KALIMATA
 
 MATERI BASS
 # Isi
