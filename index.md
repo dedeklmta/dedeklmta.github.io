@@ -1,8 +1,9 @@
 ## Welcome to My Blog in Github      
 DEDE KALIMATA
 
+
 MATERI BASS
-### Isi
+# Isi
 1. Tuning keys
 •	berfungsi sebagai alat untuk menyetem/menyetel/menstem (tuning) senar gitar sehingga menghasilkan nada sesuai dengan keinginan kita
 2. Headstock
@@ -193,6 +194,7 @@ Tekni Neck Bending bisa kita lakukan ketika memetik, tekan senar yang ada pada h
 
 
 
-### Support or Contact
+## Contact
+WA/SMS: 085332762277
+Instagram: dedekalimata
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
