@@ -46,7 +46,7 @@ MATERI BASS
 6. Neck Bending
 •	seperti tehnik bending (mengangkat senar oleh ujung jari) dalam gitar, tapi ini dilakukan di ujung bass. cara memainkan tehnik ini adalah menekan senar yang ada pada headstock (bagian ujung bass, tempat kita biasa memutar bandul untuk nyetem) pada saat senar dipetik. Tehnik ini akan menghasilkan bunyi mendengung pada seluruh nada. biasanya billy sheehan sering menggunakan tehnik ini.
 
-## Jenis Bass
+# Jenis Bass
 BASS AKTIF
 Bass yang bertipe aktif ini memiliki sound atau suara yang cenderung ke high, dan biasanya tipe bass ini dimainkan dengan cara slap. Dari komponen bass yang bertipe aktif ini sedikit rumit dan cukup sulit, karena banyak komponen tambahan agar bass aktif ini  benar - benar mengeluarkan sound atau suara yang mantab. Dari genre/aliran music pun sangat menentukan, karena tidak semua genre/aliran bisa cocok dengan bass yang bertipe aktif ini. Jadi intinya Bass aktif ini memiliki karakter yang high dan mempunyai komponen yang lumayan rumit sebagai tambahanya, dan tidak semua genre bisa cocok dengan bass aktif.
 
@@ -60,18 +60,17 @@ Contoh kecil Musisi yang sering menggunakan Bass yang bertipe aktif ini adalah N
 MUSISI YANG MEMAKAI BASS PASIF
 Contoh Musisi yang sering menggunakan bass pasif adalah semua BASSIS hehehehe. Kenapa saya bilang begitu, karena walaupun seorang bassis suka dengan permainan bass aktif pasti suatu saat akan memainkan bass yang bersifat pasif, karena bass pasif adalah bass yang normal yang sangat di butuhkan oleh banyak genre.
 
-### Fungsi Bass
+# Fungsi Bass
 Mengenai fungsi pada bass, bass ini memuliki banyak keistimewaan pada sebuah musik ataupun di band, karena bass adalah bagian dari kaki dan tangan di sebuah band atau musik. Dalam sebuah lagu atau musik lagu yang ada di band sobat, bass adalah sebagai penentu sebuah kunci (chord) yang sedang di mainkan. Jadi seperti ini biasanya di sebuah lagu bass tidak hanya mempunyai kunci - kunci dasar, melainkan kunci dari bass suka menyimpang kesana dan kemari dan tentunya sesuai dengan ketentuan nada yang benar.
 
 Bass bisa di bilang sebagai pemandu alat musik gitar atau keyboard (piano), di mana gitar dan keyboard (piano) akan mengikuti kearah bass yang dituju. Selain bass adalah sebagai pemandu gitar dan keyboard, bass juga memiliki fungsi sebagai  pengiring alat musik drum, di mana bass akan mengiringi permainan seorang drummer dan akan menutupi kekosongan ketutak yang ada pada sebuah drum.
 
 Dari beberapa penjelasan di atas dapat kita ambil kesimpulan, jadi bass itu adalah sebuah alat musik yang berfungsi sebagai pengiring dan pemandu di sebuah lagu, dengan tujuan bass tersebut akan membawa personil lainya untuk bekerja sama agar tercipta nuansa dan harmonis lagu yang indah dan nikmat.
 
-#### Cara Stem
-Cara stem ?
+# Cara Stem
 Jika anda mau stem sendiri, maka caranya adalah dengan menyamakan fret ke 5 suatu senar dengan satu senar setingkat di bawahnya pada fret 0. Kecuali pada senar ketiga dari bawah yang barus distem pada fret ke 4 dengan fret 0 di senar kedua dari bawah. Anda harus menggunakan filing anda apakah suara suatu fret dengan fret di bawahnya sudah sama suaranya. Jika tidak sama putar-putar pengendali tegangan senar pada ujung gitar sampai pas.
 
-##### Teknik Fingering Bass
+# Teknik Fingering Bass
  Cara memainkannya :
 - Tempatkan jari telunjuk pada titik nomer 1, jari tengah padatitik nomer 2, jari manis pada titik nomer 3, dan jari kelingking pada titik nomer 4. 
 - Nah setelah itu kita mainkan nada secara bergantian dengan memetik dari titik 1 - 2 - 3 - 4, lakukan secara perlahan dan ulangi terus hingga jari kita merasa kelelahan, istirahatkan selama 1 menit lalu coba lagi dengan kecepatan yang lebih cepat.Namun perlu diingat, usahakan nada yang terdengar rapi, jangan asal cepat tapi berantakan. Oleh sebab itu lakukan secara bertahap hingga kalian merasa mampu menambah kecepatan.
