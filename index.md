@@ -1,7 +1,6 @@
 ## Welcome to My Blog in Github      
 DEDE KALIMATA
 
-
 MATERI BASS
 # Isi
 1. Tuning keys
@@ -196,5 +195,6 @@ Tekni Neck Bending bisa kita lakukan ketika memetik, tekan senar yang ada pada h
 
 ## Contact
 WA/SMS: 085332762277
+
 Instagram: dedekalimata
 
